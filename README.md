@@ -6,22 +6,22 @@ The project was created to gain practical experience with Python, system monitor
 
  Features
 
-- CPU Monitoring:** Displays current CPU usage and the number of CPU cores.
-- RAM Monitoring:** Tracks memory usage and displays used and total memory.
-- Disk Monitoring:** Shows storage usage of the main drive.
-- Network Monitoring:** Tracks the total amount of data sent and received.
-- Battery Monitoring:** Displays the current battery level when a battery is detected.
-- System Uptime:** Calculates how long the system has been running.
-- Process Analysis:** Identifies the three processes with the highest memory usage.
-- Real-Time Updates:** Regularly refreshes system information.
-- Cross-Platform Support:** Supports different drive paths and terminal commands for Windows and other operating systems.
+- CPU Monitoring: Displays current CPU usage and the number of CPU cores.
+- RAM Monitoring: Tracks memory usage and displays used and total memory.
+- Disk Monitoring: Shows storage usage of the main drive.
+- Network Monitoring: Tracks the total amount of data sent and received.
+- Battery Monitoring: Displays the current battery level when a battery is detected.
+- System Uptime: Calculates how long the system has been running.
+- Process Analysis: Identifies the three processes with the highest memory usage.
+- Real-Time Updates: Regularly refreshes system information.
+- Cross-Platform Support: Supports different drive paths and terminal commands for Windows and other operating systems.
 
 Technologies
 
-- Python 3**
-- psutil** – Retrieves system information and process data.
-- OS** – Detects the operating system and manages terminal commands.
-- Datetime and Time** – Handle timestamps and system uptime.
+- Python 3
+- psutil – Retrieves system information and process data.
+- OS – Detects the operating system and manages terminal commands.
+- Datetime and Time – Handle timestamps and system uptime.
 
 Installation
 
